@@ -1,0 +1,10 @@
+2022-12-02 12:07:42,018 - INFO - Client socket created
+2022-12-02 12:07:42,019 - INFO - Connected to a server 127.0.0.1
+2022-12-02 12:07:50,493 - INFO - Sent request: asdf
+2022-12-02 12:07:50,494 - INFO - Received answer: This command is not supported!
+2022-12-02 12:07:53,504 - INFO - Sent request: stio
+2022-12-02 12:07:53,504 - INFO - Received answer: This command is not supported!
+2022-12-02 12:07:55,710 - INFO - Sent request: stop
+2022-12-02 12:07:55,711 - INFO - Received answer: stop
+You have just ended this program!
+2022-12-02 12:07:55,711 - INFO - Connection closed.

@@ -1,0 +1,403 @@
+2022-12-02 11:27:53,320 - INFO - Server was run
+2022-12-02 11:28:03,861 - INFO - Server was run
+2022-12-02 11:28:06,340 - INFO - Connected to a client ('127.0.0.1', 65353)
+2022-12-02 11:28:06,340 - INFO - Sent info
+2022-12-02 11:28:06,340 - INFO - Listening to the client
+2022-12-02 11:28:12,554 - INFO - Client's message: who
+2022-12-02 11:28:12,555 - INFO - Sent answer: Algin Danylo, K25, V27, 'Object recovery'
+2022-12-02 11:28:14,993 - INFO - Client's message: get_field
+2022-12-02 11:28:14,994 - INFO - Sent answer: 
+********************
+********************
+********************
+********************
+********************
+
+2022-12-02 11:28:23,883 - INFO - Client's message: =10,1
+2022-12-02 11:28:23,884 - INFO - Dot at position 10, 1, was found!
+2022-12-02 11:28:23,884 - INFO - Sent answer: 
+********************
+**********@*********
+********************
+********************
+********************
+Dot at position 10, 1, was found!
+
+2022-12-02 11:28:26,705 - INFO - Client's message: =10,2
+2022-12-02 11:28:26,705 - INFO - Dot at position 10, 2, was found!
+2022-12-02 11:28:26,705 - INFO - Sent answer: 
+********************
+**********@*********
+**********@*********
+********************
+********************
+Dot at position 10, 2, was found!
+
+2022-12-02 11:28:30,746 - INFO - Client's message: =10,5
+2022-12-02 11:28:30,746 - WARNING - Exception : Wrong string index or incorrect expression
+2022-12-02 11:28:30,746 - INFO - Sent answer: Exception : Wrong string index or incorrect expression
+2022-12-02 11:28:39,044 - INFO - Client's message: =15,2
+2022-12-02 11:28:39,044 - WARNING - Dot at position 15, 2 was not found!
+2022-12-02 11:28:39,044 - INFO - Sent answer: Dot at position 15, 2 was not found!
+2022-12-02 11:28:43,288 - INFO - Client's message: =11,1
+2022-12-02 11:28:43,288 - INFO - Dot at position 11, 1, was found!
+2022-12-02 11:28:43,288 - INFO - Sent answer: 
+********************
+**********@@********
+**********@*********
+********************
+********************
+Dot at position 11, 1, was found!
+
+2022-12-02 11:28:48,504 - INFO - Client's message: =11,2
+2022-12-02 11:28:48,504 - INFO - Dot at position 11, 2, was found!
+2022-12-02 11:28:48,504 - INFO - Send answer: 
+********************
+**********@@********
+**********@@********
+********************
+********************
+Dot at position 11, 2, was found!
+You have found full object! You won!
+2022-12-02 11:28:48,504 - INFO - Stop marker founded.
+2022-12-02 11:28:48,504 - INFO - Connection closed.
+2022-12-02 11:28:48,504 - INFO - 
+------------------------------
+
+2022-12-02 11:32:52,210 - INFO - Server was run
+2022-12-02 11:32:55,131 - INFO - Connected to a client ('127.0.0.1', 49270)
+2022-12-02 11:32:55,131 - INFO - Sent info
+2022-12-02 11:32:55,132 - INFO - Listening to the client
+2022-12-02 11:33:12,534 - INFO - Client's message: who 
+2022-12-02 11:33:12,534 - INFO - Sent answer: This command is not supported!
+2022-12-02 11:33:14,916 - INFO - Client's message: get_field
+2022-12-02 11:33:14,917 - INFO - Sent answer: 
+********************
+********************
+********************
+********************
+********************
+
+2022-12-02 11:33:20,068 - INFO - Client's message: =10,1
+2022-12-02 11:33:20,068 - INFO - Dot at position 10, 1, was found!
+2022-12-02 11:33:20,068 - INFO - Sent answer: 
+********************
+**********@*********
+********************
+********************
+********************
+Dot at position 10, 1, was found!
+
+2022-12-02 11:33:22,735 - INFO - Client's message: =10,2
+2022-12-02 11:33:22,736 - INFO - Dot at position 10, 2, was found!
+2022-12-02 11:33:22,737 - INFO - Sent answer: 
+********************
+**********@*********
+**********@*********
+********************
+********************
+Dot at position 10, 2, was found!
+
+2022-12-02 11:33:26,152 - INFO - Client's message: =11,1
+2022-12-02 11:33:26,152 - INFO - Dot at position 11, 1, was found!
+2022-12-02 11:33:26,152 - INFO - Sent answer: 
+********************
+**********@@********
+**********@*********
+********************
+********************
+Dot at position 11, 1, was found!
+
+2022-12-02 11:33:29,139 - INFO - Client's message: =11,2
+2022-12-02 11:33:29,139 - INFO - Dot at position 11, 2, was found!
+2022-12-02 11:33:29,139 - INFO - Send answer: 
+********************
+**********@@********
+**********@@********
+********************
+********************
+Dot at position 11, 2, was found!
+You have found full object! You won!
+2022-12-02 11:33:29,139 - INFO - Stop marker founded.
+2022-12-02 11:33:29,139 - INFO - Connection closed.
+2022-12-02 11:33:29,139 - INFO - 
+------------------------------
+
+2022-12-02 11:42:10,350 - INFO - Server was run
+2022-12-02 11:42:12,798 - INFO - Connected to a client ('127.0.0.1', 49894)
+2022-12-02 11:42:12,798 - INFO - Sent info
+2022-12-02 11:42:12,799 - INFO - Listening to the client
+2022-12-02 11:42:21,622 - INFO - Client's message: get_feild
+2022-12-02 11:42:21,622 - INFO - Sent answer: This command is not supported!
+2022-12-02 11:42:26,282 - INFO - Client's message: get_field
+2022-12-02 11:42:26,282 - INFO - Sent answer: 
+********************
+********************
+********************
+********************
+********************
+
+2022-12-02 11:42:30,244 - INFO - Client's message: who
+2022-12-02 11:42:30,245 - INFO - Sent answer: Algin Danylo, K25, V27, 'Object recovery'
+2022-12-02 11:42:31,595 - INFO - Client's message: a
+2022-12-02 11:42:31,595 - INFO - Sent answer: This command is not supported!
+2022-12-02 11:42:32,395 - INFO - Client's message: c
+2022-12-02 11:42:32,395 - INFO - Sent answer: This command is not supported!
+2022-12-02 11:42:49,269 - INFO - Client's message: =11,1
+2022-12-02 11:42:49,269 - INFO - Dot at position 11, 1, was found!
+2022-12-02 11:42:49,269 - INFO - Sent answer: 
+********************
+***********@********
+********************
+********************
+********************
+Dot at position 11, 1, was found!
+
+2022-12-02 11:42:50,660 - INFO - Client's message: =11,1
+2022-12-02 11:42:50,660 - INFO - Dot at position 11, 1, was found!
+2022-12-02 11:42:50,661 - INFO - Sent answer: 
+********************
+***********@********
+********************
+********************
+********************
+Dot at position 11, 1, was found!
+
+2022-12-02 11:42:51,370 - INFO - Client's message: =11,1
+2022-12-02 11:42:51,371 - INFO - Dot at position 11, 1, was found!
+2022-12-02 11:42:51,371 - INFO - Sent answer: 
+********************
+***********@********
+********************
+********************
+********************
+Dot at position 11, 1, was found!
+
+2022-12-02 11:42:52,167 - INFO - Client's message: =11,1
+2022-12-02 11:42:52,168 - INFO - Dot at position 11, 1, was found!
+2022-12-02 11:42:52,168 - INFO - Send answer: 
+********************
+***********@********
+********************
+********************
+********************
+Dot at position 11, 1, was found!
+You have found full object! You won!
+2022-12-02 11:42:52,168 - INFO - Stop marker founded.
+2022-12-02 11:42:52,168 - INFO - Connection closed.
+2022-12-02 11:42:52,168 - INFO - 
+------------------------------
+
+2022-12-02 11:45:50,171 - INFO - Server was run
+2022-12-02 11:45:53,835 - INFO - Connected to a client ('127.0.0.1', 50123)
+2022-12-02 11:45:53,835 - INFO - Sent info
+2022-12-02 11:45:53,835 - INFO - Listening to the client
+2022-12-02 11:46:00,624 - INFO - Client's message: =11,1
+2022-12-02 11:46:00,625 - INFO - Dot at position 11, 1, was found!
+2022-12-02 11:46:00,628 - INFO - Sent answer: 
+********************
+***********@********
+********************
+********************
+********************
+Dot at position 11, 1, was found!
+
+2022-12-02 11:46:05,361 - INFO - Client's message: =11,2
+2022-12-02 11:46:05,361 - INFO - Dot at position 11, 2, was found!
+2022-12-02 11:46:05,361 - INFO - Sent answer: 
+********************
+***********@********
+***********@********
+********************
+********************
+Dot at position 11, 2, was found!
+
+2022-12-02 11:46:08,344 - INFO - Client's message: =11,3
+2022-12-02 11:46:08,344 - WARNING - Dot at position 11, 3 was not found!
+2022-12-02 11:46:08,344 - INFO - Sent answer: Dot at position 11, 3 was not found!
+2022-12-02 11:46:10,922 - INFO - Client's message: =11,4
+2022-12-02 11:46:10,922 - WARNING - Dot at position 11, 4 was not found!
+2022-12-02 11:46:10,922 - INFO - Sent answer: Dot at position 11, 4 was not found!
+2022-12-02 11:46:12,844 - INFO - Client's message: =11,5
+2022-12-02 11:46:12,844 - WARNING - Exception : Wrong string index or incorrect expression
+2022-12-02 11:46:12,844 - INFO - Sent answer: Exception : Wrong string index or incorrect expression
+2022-12-02 11:46:15,386 - INFO - Client's message: =11,6
+2022-12-02 11:46:15,387 - WARNING - Exception : Wrong string index or incorrect expression
+2022-12-02 11:46:15,387 - INFO - Sent answer: Exception : Wrong string index or incorrect expression
+2022-12-02 11:46:26,919 - INFO - Client's message: =1,1
+2022-12-02 11:46:26,920 - WARNING - Dot at position 1, 1 was not found!
+2022-12-02 11:46:26,921 - INFO - Sent answer: Dot at position 1, 1 was not found!
+2022-12-02 11:46:30,375 - INFO - Client's message: =2,1
+2022-12-02 11:46:30,375 - WARNING - Dot at position 2, 1 was not found!
+2022-12-02 11:46:30,376 - INFO - Sent answer: Dot at position 2, 1 was not found!
+2022-12-02 11:46:33,677 - INFO - Client's message: =3,1
+2022-12-02 11:46:33,677 - WARNING - Dot at position 3, 1 was not found!
+2022-12-02 11:46:33,677 - INFO - Sent answer: Dot at position 3, 1 was not found!
+2022-12-02 11:46:37,965 - INFO - Client's message: =4,1
+2022-12-02 11:46:37,965 - WARNING - Dot at position 4, 1 was not found!
+2022-12-02 11:46:37,965 - INFO - Send answer: Dot at position 4, 1 was not found!You have wasted all your attempts! You lose!
+2022-12-02 11:46:37,965 - INFO - Stop marker founded.
+2022-12-02 11:46:37,966 - INFO - Connection closed.
+2022-12-02 11:46:37,966 - INFO - 
+------------------------------
+
+2022-12-02 11:53:58,040 - INFO - Server was run
+2022-12-02 11:54:00,676 - INFO - Connected to a client ('127.0.0.1', 50663)
+2022-12-02 11:54:00,676 - INFO - Sent info
+2022-12-02 11:54:00,676 - INFO - Listening to the client
+2022-12-02 11:54:22,865 - INFO - Server was run
+2022-12-02 11:54:25,499 - INFO - Connected to a client ('127.0.0.1', 50690)
+2022-12-02 11:54:25,499 - INFO - Sent info
+2022-12-02 11:54:25,499 - INFO - Listening to the client
+2022-12-02 11:54:52,321 - INFO - Server was run
+2022-12-02 11:54:55,034 - INFO - Connected to a client ('127.0.0.1', 50723)
+2022-12-02 11:54:55,034 - INFO - Sent info
+2022-12-02 11:54:55,034 - INFO - Listening to the client
+2022-12-02 11:56:49,691 - INFO - Server was run
+2022-12-02 11:56:51,870 - INFO - Connected to a client ('127.0.0.1', 50843)
+2022-12-02 11:56:51,871 - INFO - Sent info
+2022-12-02 11:56:51,871 - INFO - Listening to the client
+2022-12-02 11:57:50,318 - INFO - Server was run
+2022-12-02 11:57:50,947 - INFO - Connected to a client ('127.0.0.1', 50909)
+2022-12-02 11:57:50,947 - INFO - Sent info
+2022-12-02 11:57:50,947 - INFO - Listening to the client
+2022-12-02 11:57:57,192 - INFO - Server was run
+2022-12-02 11:57:59,452 - INFO - Connected to a client ('127.0.0.1', 50919)
+2022-12-02 11:57:59,452 - INFO - Sent info
+2022-12-02 11:57:59,452 - INFO - Listening to the client
+2022-12-02 11:58:13,874 - INFO - Client's message: who
+2022-12-02 11:58:13,874 - INFO - Sent answer: Algin Danylo, K25, V27, 'Object recovery'
+2022-12-02 11:58:16,091 - INFO - Client's message: get_field
+2022-12-02 11:58:16,092 - INFO - Sent answer: 
+********************
+********************
+********************
+********************
+********************
+
+2022-12-02 11:59:23,579 - INFO - Server was run
+2022-12-02 11:59:25,845 - INFO - Connected to a client ('127.0.0.1', 51008)
+2022-12-02 11:59:25,845 - INFO - Sent info
+2022-12-02 11:59:25,845 - INFO - Listening to the client
+2022-12-02 11:59:33,474 - INFO - Client's message: who
+2022-12-02 11:59:33,474 - INFO - Sent answer: Algin Danylo, K25, V27, 'Object recovery'
+2022-12-02 11:59:36,644 - INFO - Client's message: get_firld
+2022-12-02 11:59:36,644 - INFO - Sent answer: This command is not supported!
+2022-12-02 11:59:39,050 - INFO - Client's message: get_field
+2022-12-02 11:59:39,051 - INFO - Sent answer: 
+********************
+********************
+********************
+********************
+********************
+
+2022-12-02 11:59:45,569 - INFO - Client's message: =11,1
+2022-12-02 11:59:45,570 - INFO - Dot at position 11, 1, was found!
+2022-12-02 11:59:45,570 - INFO - Sent answer: 
+********************
+***********@********
+********************
+********************
+********************
+Dot at position 11, 1, was found!
+
+2022-12-02 11:59:48,083 - INFO - Client's message: =11,2
+2022-12-02 11:59:48,083 - INFO - Dot at position 11, 2, was found!
+2022-12-02 11:59:48,083 - INFO - Sent answer: 
+********************
+***********@********
+***********@********
+********************
+********************
+Dot at position 11, 2, was found!
+
+2022-12-02 11:59:51,776 - INFO - Client's message: =10,1
+2022-12-02 11:59:51,777 - INFO - Dot at position 10, 1, was found!
+2022-12-02 11:59:51,777 - INFO - Sent answer: 
+********************
+**********@@********
+***********@********
+********************
+********************
+Dot at position 10, 1, was found!
+
+2022-12-02 11:59:55,043 - INFO - Client's message: =10,2
+2022-12-02 11:59:55,044 - INFO - Dot at position 10, 2, was found!
+2022-12-02 11:59:55,044 - INFO - Send answer: 
+********************
+**********@@********
+**********@@********
+********************
+********************
+Dot at position 10, 2, was found!
+You have found full object! You won!
+2022-12-02 11:59:55,044 - INFO - Stop marker founded.
+2022-12-02 11:59:55,044 - INFO - Connection closed.
+2022-12-02 11:59:55,044 - INFO - 
+------------------------------
+
+2022-12-02 12:00:59,641 - INFO - Server was run
+2022-12-02 12:01:02,015 - INFO - Connected to a client ('127.0.0.1', 51109)
+2022-12-02 12:01:02,015 - INFO - Sent info
+2022-12-02 12:01:02,015 - INFO - Listening to the client
+2022-12-02 12:01:06,451 - INFO - Client's message: =10,1
+2022-12-02 12:01:06,452 - INFO - Dot at position 10, 1, was found!
+2022-12-02 12:01:06,454 - INFO - Sent answer: 
+********************
+**********@*********
+********************
+********************
+********************
+Dot at position 10, 1, was found!
+
+2022-12-02 12:01:08,952 - INFO - Client's message: =10,2
+2022-12-02 12:01:08,952 - INFO - Dot at position 10, 2, was found!
+2022-12-02 12:01:08,952 - INFO - Sent answer: 
+********************
+**********@*********
+**********@*********
+********************
+********************
+Dot at position 10, 2, was found!
+
+2022-12-02 12:01:10,686 - INFO - Client's message: =11,1
+2022-12-02 12:01:10,686 - INFO - Dot at position 11, 1, was found!
+2022-12-02 12:01:10,687 - INFO - Sent answer: 
+********************
+**********@@********
+**********@*********
+********************
+********************
+Dot at position 11, 1, was found!
+
+2022-12-02 12:01:12,083 - INFO - Client's message: =11,2
+2022-12-02 12:01:12,083 - INFO - Dot at position 11, 2, was found!
+2022-12-02 12:01:12,083 - INFO - Send answer: 
+********************
+**********@@********
+**********@@********
+********************
+********************
+Dot at position 11, 2, was found!
+You have found full object! You won!
+2022-12-02 12:01:12,084 - INFO - Stop marker founded.
+2022-12-02 12:01:12,084 - INFO - Connection closed.
+2022-12-02 12:01:12,084 - INFO - 
+------------------------------
+
+2022-12-02 12:07:38,483 - INFO - Server was run
+2022-12-02 12:07:42,019 - INFO - Connected to a client ('127.0.0.1', 51544)
+2022-12-02 12:07:42,019 - INFO - Sent info
+2022-12-02 12:07:42,019 - INFO - Listening to the client
+2022-12-02 12:07:50,493 - INFO - Client's message: asdf
+2022-12-02 12:07:50,494 - INFO - Sent answer: This command is not supported!
+2022-12-02 12:07:53,504 - INFO - Client's message: stio
+2022-12-02 12:07:53,504 - INFO - Sent answer: This command is not supported!
+2022-12-02 12:07:55,710 - INFO - Client's message: stop
+2022-12-02 12:07:55,711 - INFO - Send answer: stop
+You have just ended this program!
+2022-12-02 12:07:55,711 - INFO - Stop marker founded.
+2022-12-02 12:07:55,711 - INFO - Connection closed.
+2022-12-02 12:07:55,711 - INFO - 
+------------------------------
+
